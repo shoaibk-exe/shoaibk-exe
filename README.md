@@ -1,4 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=94D0FF&lines=Hi+there+%F0%9F%91%8B+I'm+Shoaib!)
+
 I’m a Machine Learning Engineer | Computer Vision Engineer | Full Stack Developer, working at the intersection of
 deep learning, biological data, and AI computational pipelines.
 My recent work includes:
