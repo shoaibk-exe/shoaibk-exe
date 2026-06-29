@@ -3,17 +3,41 @@
 I’m a Machine Learning Engineer | Computer Vision Engineer | Full Stack Developer, working at the intersection of
 deep learning, biological data, and AI computational pipelines.
 My recent work includes:
-Building deep learning models for short-read structural variant (SV) calling
-Developing scalable ML infrastructure (cloud, orchestration, CI/CD)
-Experimenting with LLM-powered scientific agents using MCP
-Applying ML to real-world biological and biomedical datasets
+<ul>
+  <li>Building deep learning models for short-read structural variant (SV) calling</li>
+  <li>Developing scalable ML infrastructure (cloud, orchestration, CI/CD)</li>
+  <li>Experimenting with LLM-powered scientific agents using MCP</li>
+  <li>Applying ML to real-world biological and biomedical datasets</li>
+</ul>
 ---
 🛠️ Skills
 	
-Programming Languages	Python, C++, JS
-Machine Learning & Deep Learning	PyTorch, scikit-learn
-Data Analysis & Visualization	Pandas, Seaborn
-Cloud & CI/CD	AWS, Docker
-Backend Development	FastAPI, Flask, MCP
-Frontend Development	React, Flutter
+<h2>🛠️ Skills</h2>
+
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>Python, C++, JavaScript</td>
+  </tr>
+  <tr>
+    <td><strong>Machine Learning & Deep Learning</strong></td>
+    <td>PyTorch, Scikit-learn</td>
+  </tr>
+  <tr>
+    <td><strong>Data Analysis & Visualization</strong></td>
+    <td>Pandas, Seaborn</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & CI/CD</strong></td>
+    <td>AWS, Docker</td>
+  </tr>
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td>FastAPI, Flask, MCP</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>React, Flutter</td>
+  </tr>
+</table>
 ---
